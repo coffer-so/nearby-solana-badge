@@ -1,0 +1,13 @@
+{
+  "id": "nearby",
+  "name": "Nearby",
+  "version": "1.0.0",
+  "author": "coffer team",
+  "summary": "Find nearby badge owners, their X profiles and a warmer/colder signal.",
+  "description": "Find people around you with Solana OS badge radio signals. Open a profile for its public X name, bio, website and avatar, with a live warmer/colder indicator. Other badges do not need to run Nearby or X Dex. Radio discovery works offline on the same mesh channel; public profiles need Wi-Fi. Signal-based distance is a rough estimate, not GPS.\n\nMade by Coffer team.\nyield on RWA baskets here -> coffer.so\ntwitter: @coffer_so",
+  "icon": "gps",
+  "accent": "FDF7DC",
+  "category": "social",
+  "permissions": ["mesh", "profile", "http"],
+  "hosts": ["api.fxtwitter.com", "wsrv.nl"]
+}
